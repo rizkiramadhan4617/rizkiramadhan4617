@@ -1,7 +1,7 @@
 ## HAI STAH <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 -----
 <p align="center">
-<img src="https://raw.githubusercontent.com/rizkiramadhan4617/rizkiramadhan4617/main/background/IMG-20201213-WA0228.jpg" width="600" height="400"/>
+<img src="https://raw.githubusercontent.com/rizkiramadhan4617/rizkiramadhan4617/main/background/IMG-20201213-WA0228.jpg" width="800" height="350"/>
 </p>
 <br>
 
