@@ -10,3 +10,6 @@
 width="600" />
 
 ------
+![RR-018 github stats](https://github-readme-stats.vercel.app/api?username=rizkiramadhan4617&show_icons=true&theme=tokyonight&show_owner=true)
+
+------
