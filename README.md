@@ -15,10 +15,26 @@
 
 <p align="center">
 
-  <a href="https://github.com/ItsmeikyXSec4O4"><img src="https://github-readme-stats.vercel.app/api?username=ItsmeikyXSec4O4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/rizkiramadhan4617"><img src="https://github-readme-stats.vercel.app/api?username=rizkiramadhan4617&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+
+</p>
 
 <p align="center">
 
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-ItsmeikyXSec404-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/WgeItwiifYs" /></a>
+  <a href="https://github.com/rizkiramadhan4617"><img src="https://github-readme-stats.vercel.app/api/top-langs?&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 
-  
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkiramadhabn4617&theme=onedark" /></a>
+
+</p>
+
+<p align="center">
+
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmeikyXSec4O4" />
+
+</p>
+
+
