@@ -17,6 +17,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkiramadhan4617&theme=onedark" /></a>
 </p>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiramadhan4617" />
-</p>
+
